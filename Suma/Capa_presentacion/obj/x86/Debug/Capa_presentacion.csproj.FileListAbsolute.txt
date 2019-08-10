@@ -1,0 +1,16 @@
+C:\Users\COMPUTRON\Desktop\sistema\Suma\Capa_presentacion\bin\Debug\Capa_presentacion.exe
+C:\Users\COMPUTRON\Desktop\sistema\Suma\Capa_presentacion\bin\Debug\Capa_presentacion.pdb
+C:\Users\COMPUTRON\Desktop\sistema\Suma\Capa_presentacion\bin\Debug\CapaEntidad.dll
+C:\Users\COMPUTRON\Desktop\sistema\Suma\Capa_presentacion\bin\Debug\CapaNegocio.dll
+C:\Users\COMPUTRON\Desktop\sistema\Suma\Capa_presentacion\bin\Debug\CapaDatos.dll
+C:\Users\COMPUTRON\Desktop\sistema\Suma\Capa_presentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\COMPUTRON\Desktop\sistema\Suma\Capa_presentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\COMPUTRON\Desktop\sistema\Suma\Capa_presentacion\bin\Debug\CapaDatos.pdb
+C:\Users\COMPUTRON\Desktop\sistema\Suma\Capa_presentacion\obj\x86\Debug\Capa_presentacion.csprojResolveAssemblyReference.cache
+C:\Users\COMPUTRON\Desktop\sistema\Suma\Capa_presentacion\obj\x86\Debug\Capa_presentacion.Form1.resources
+C:\Users\COMPUTRON\Desktop\sistema\Suma\Capa_presentacion\obj\x86\Debug\Capa_presentacion.Properties.Resources.resources
+C:\Users\COMPUTRON\Desktop\sistema\Suma\Capa_presentacion\obj\x86\Debug\Capa_presentacion.csproj.GenerateResource.Cache
+C:\Users\COMPUTRON\Desktop\sistema\Suma\Capa_presentacion\obj\x86\Debug\Capa_presentacion.exe
+C:\Users\COMPUTRON\Desktop\sistema\Suma\Capa_presentacion\obj\x86\Debug\Capa_presentacion.pdb
+C:\Users\COMPUTRON\Desktop\Sistema1\Suma\Capa_presentacion\obj\x86\Debug\Capa_presentacion.exe
+C:\Users\COMPUTRON\Desktop\Sistema1\Suma\Capa_presentacion\obj\x86\Debug\Capa_presentacion.pdb
